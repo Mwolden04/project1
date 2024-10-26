@@ -42,19 +42,19 @@ for url in urls:
         
             case 1:
             
-                outputF = open("comments 1.txt", "w")
+                outputF = open("comments1.txt", "w")
                 comments = 15
             case 2:
             
-                outputF = open("comments 2.txt", "w")
+                outputF = open("comments2.txt", "w")
                 comments = 171
             case 3:
             
-                outputF = open("comments 3.txt", "w")
+                outputF = open("comments3.txt", "w")
                 comments = 72
             case 4:
             
-                outputF = open("comments 4.txt", "w")
+                outputF = open("comments4.txt", "w")
                 comments = 47
     
         
